@@ -1,2 +1,5 @@
-# gshader
-My program like ShaderToy for computing images. It is my toy project. Feel free to fork and play with shaders.
+# Golang Shader Toy
+
+My little pet project, just for fun. :-)
+
+Write simple shaders, gradient color maps, and create beautiful images. In Go, with simple concurrency computing.
